@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/bin/Debug/net5.0/Variables.deps.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/bin/Debug/net5.0/Variables.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/bin/Debug/net5.0/Variables.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/bin/Debug/net5.0/Variables.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/bin/Debug/net5.0/ref/Variables.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/bin/Debug/net5.0/Variables.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/obj/Debug/net5.0/Variables.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/obj/Debug/net5.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/obj/Debug/net5.0/Variables.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/obj/Debug/net5.0/Variables.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/obj/Debug/net5.0/Variables.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/obj/Debug/net5.0/Variables.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/obj/Debug/net5.0/ref/Variables.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/obj/Debug/net5.0/Variables.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/Variables/obj/Debug/net5.0/Variables.genruntimeconfig.cache
